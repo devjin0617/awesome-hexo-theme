@@ -26,7 +26,7 @@
 - anisina: [`Github`](https://github.com/haojen/hexo-theme-Anisina) [`Demo`](http://haojen.github.io/)
 - anodyne: [`Github`](https://github.com/klugjo/hexo-theme-anodyne) [`Demo`](http://www.codeblocq.com/assets/projects/hexo-theme-anodyne/)
 - apollo: [`Github`](https://github.com/pinggod/hexo-theme-apollo) [`Demo`](http://pinggod.com/)
-- BlueLake: [`Github`](https://github.com/chaooo/hexo-theme-BlueLake) [`Demo`](http://chaoo.oschina.io/)
+- blue-lake: [`Github`](https://github.com/chaooo/hexo-theme-BlueLake) [`Demo`](http://chaoo.oschina.io/)
 
 ## news
 
