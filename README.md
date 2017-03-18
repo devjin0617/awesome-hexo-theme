@@ -17,5 +17,7 @@
 
 ## blog
 
+- hexo-theme-phantom: [`Github`](https://github.com/klugjo/hexo-theme-phantom) [`Demo`](https://html5up.net/phantom)
+
 
 ## company page
