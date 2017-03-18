@@ -31,6 +31,7 @@
 ## news
 
 - Ada: [`Github`](https://github.com/shuiRong/hexo-theme-Ada) [`Demo`](https://shuirong.github.io/)
-  - <img width="200" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/ada.png?raw=true">
+
+  <img width="200" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/ada.png?raw=true">
 
 ## company page
