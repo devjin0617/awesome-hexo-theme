@@ -57,11 +57,42 @@
 
   <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/blue-lake.png?raw=true">
   
+- bootstrap-blog: [`Github`](https://github.com/cgmartin/hexo-theme-bootstrap-blog) [`Demo`](http://cgmartin.github.io/hexo-theme-bootstrap-blog/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/bootstrap-blog.png?raw=true">
+  
+- cactus-dark: [`Github`](https://github.com/probberechts/cactus-dark) [`Demo`](https://probberechts.github.io/cactus-dark/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/cactus-dark.png?raw=true">
+  
+- cafe: [`Github`](https://github.com/giscafer/hexo-theme-cafe) [`Demo`](http://cafe.giscafer.com/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/cafe.png?raw=true">
+  
+- chan: [`Github`](https://github.com/denjones/hexo-theme-chan) [`Demo`](http://denjones.github.io/hexo-theme-chan)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/chan.png?raw=true">
+  
+- clean-blog: [`Github`](https://github.com/klugjo/hexo-theme-clean-blog) [`Demo`](http://www.codeblocq.com/assets/projects/hexo-theme-clean-blog/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/clean-blog.png?raw=true">
+  
+- cyan-style: [`Github`](https://github.com/wizardforcel/hexo-theme-cyanstyle) [`Demo`](http://flygon.net/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/cyan-style.png?raw=true">
+  
+- daily: [`Github`](https://github.com/GallenHu/hexo-theme-Daily) [`Demo`](https://blog.hinpc.com/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/daily.png?raw=true">
 
 ## news
 
 - Ada: [`Github`](https://github.com/shuiRong/hexo-theme-Ada) [`Demo`](https://shuirong.github.io/)
 
   <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/ada.png?raw=true">
+  
+- edinburgh: [`Github`](https://github.com/sharvaridesai/hexo-theme-edinburgh) [`Demo`](https://sharvaridesai.github.io/hexo-theme-edinburgh-demo/)
+
+  <img height="150" src="https://github.com/devjin0617/awesome-hexo-theme/blob/master/images/edinburgh.png?raw=true">
 
 ## company page
